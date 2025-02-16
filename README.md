@@ -2,7 +2,7 @@
 
 ### Clone the repository:
 
-**https://github.com/ankitsinghmindfire/recipe-sharing-app.git**
+**https://github.com/Varsha18Mewada/Recipe_Sharing_App_Nodejs**
 
 ### Navigate to the client directory: **cd client**
 
