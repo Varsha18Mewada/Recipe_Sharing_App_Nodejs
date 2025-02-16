@@ -18,8 +18,6 @@
 
 **PORT=8626**<br/>
 
-**URI=mongodb+srv://singhankitmindfire:Ankitsingh1234@recipes.5vcfr.mongodb.net/recipes?retryWrites=true&w=majority&appName=recipes**<br/>
-
 **SECRET=your-secret-key**
 
 Replace your-secret-key with a secure secret for JWT token generation.
